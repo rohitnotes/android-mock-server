@@ -1,0 +1,11 @@
+{
+  "date": "2019-01-16",
+  "resultCode": "SUCCESS",
+  "returnCode": "SUCCESS",
+  "returnMsg": "响应成功(模拟数据)!",
+  "data": {
+    "name": "zhangsan",
+    "sex": "1",
+    "phone": "110"
+  }
+}

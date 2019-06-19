@@ -1,0 +1,7 @@
+{
+  "returnCode": "SUCCESS",
+  "returnMsg": "响应成功",
+  "resultCode": "FAIL",
+  "errCode": "MSG_ERR_SIGN",
+  "errCodeDes": "接口请求失败！(模拟数据)"
+}
